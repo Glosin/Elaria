@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1290bc2ee8f533049b3d87762b70fbc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InteractRange: 3
+  InteractRange: 2
   TextMeshPro: {fileID: 0}
 --- !u!1 &6152564267453678551
 GameObject:
